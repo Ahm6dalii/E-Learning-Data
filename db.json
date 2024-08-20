@@ -1,0 +1,1164 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "John Doe",
+        "email": "john@example.com",
+        "role": "user",
+        "phone": "01002452521",
+        "password": "password1",
+        "image": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
+      },
+      {
+        "id": "2",
+        "name": "Monmen",
+        "email": "momen@example.com",
+        "role": "user",
+        "phone": "01003563631",
+        "password": "password2",
+        "image": "https://images.pexels.com/photos/8159657/pexels-photo-8159657.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": "3",
+        "name": "Monmen",
+        "email": "momen@example.com",
+        "role": "user",
+        "phone": "01004674741",
+        "password": "password3",
+        "image": "https://images.pexels.com/photos/5397723/pexels-photo-5397723.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": "4",
+        "name": "Bob Johnson",
+        "email": "bob@example.com",
+        "role": "user",
+        "phone": "01005785851",
+        "password": "password4",
+        "image": "https://images.pexels.com/photos/5397723/pexels-photo-5397723.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": "5",
+        "name": "Charlie Brown",
+        "email": "charlie@example.com",
+        "role": "user",
+        "phone": "01006896961",
+        "password": "password5",
+        "image": "https://images.pexels.com/photos/5704849/pexels-photo-5704849.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": "6",
+        "name": "Diana Prince",
+        "email": "diana@example.com",
+        "role": "user",
+        "phone": "01007907071",
+        "password": "password6",
+        "image": "https://images.pexels.com/photos/5704849/pexels-photo-5704849.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": "87b2",
+        "name": "Ahmed Ali",
+        "phone": "01018184111",
+        "email": "ali@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": "https://randomuser.me/api/portraits/men/47.jpg"
+      },
+      {
+        "id": "af32",
+        "name": "Ahmed Ali",
+        "phone": "01018184111",
+        "email": "ali22@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": "https://images.pexels.com/photos/4096867/pexels-photo-4096867.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": "ea42",
+        "name": "nader",
+        "phone": "01018184111",
+        "email": "nader@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": "https://images.pexels.com/photos/6147118/pexels-photo-6147118.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": "9f65",
+        "name": "Ahmed Ali",
+        "phone": "01018184111",
+        "email": "ali555@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": "https://images.pexels.com/photos/6147118/pexels-photo-6147118.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": "61ff",
+        "name": "Nader",
+        "phone": "01202120251",
+        "email": "aa@aa.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "7c29",
+        "name": "Nader",
+        "phone": "01097842331",
+        "email": "ali55@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "5f2e",
+        "name": "Nader",
+        "phone": "01097842331",
+        "email": "ali551@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "74a8",
+        "name": "Nader",
+        "phone": "01097842331",
+        "email": "ali51@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "df11",
+        "name": "Nader",
+        "phone": "01097842331",
+        "email": "ali52@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "0f5b",
+        "name": "Ahmed Ali",
+        "phone": "01097842331",
+        "email": "ali11@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "58f5",
+        "name": "Ahmed Ali",
+        "phone": "01097842331",
+        "email": "ali21@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "79f0",
+        "name": "Ahmed Ali",
+        "phone": "01097842331",
+        "email": "ali23@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "4144",
+        "name": "Ahmed Ali",
+        "phone": "01097842331",
+        "email": "ali25@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "63c7",
+        "name": "Ahmed Ali",
+        "phone": "01097842331",
+        "email": "ali27@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "b058",
+        "name": "Ahmed Ali",
+        "phone": "01018184111",
+        "email": "ali33@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "38b7",
+        "name": "Ahmed Ali",
+        "phone": "01018184111",
+        "email": "ali89@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "d6b1",
+        "name": "Ahmed Ali",
+        "phone": "01018184111",
+        "email": "ali99@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "fa53",
+        "name": "Ahmed Ali",
+        "phone": "01018184111",
+        "email": "ali95@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "6371",
+        "name": "Ahmed Ali",
+        "phone": "01018184111",
+        "email": "ali93@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "3518",
+        "name": "Ahmed Ali",
+        "phone": "01018184111",
+        "email": "ali91@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "e64e",
+        "name": "Ahmed Ali",
+        "phone": "01018184111",
+        "email": "ali911@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "57d5",
+        "name": "Ahmed Ali",
+        "phone": "01018184111",
+        "email": "ali910@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "f1be",
+        "name": "Ahmed Ali",
+        "phone": "01018184111",
+        "email": "ali333@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      },
+      {
+        "id": "3708",
+        "name": "Ahmed Ali",
+        "phone": "01018184111",
+        "email": "ali66@gmail.com",
+        "role": "user",
+        "password": "123456",
+        "image": ""
+      }
+    ],
+    "courses": [
+      {
+        "id": "1",
+        "title": "Introduction to JavaScript",
+        "description": "Learn the basics of JavaScript, the most popular programming language for web development.",
+        "price": 100,
+        "discount": 20,
+        "instructor": "Jane Doe",
+        "category": "Programming",
+        "duration": "4 weeks",
+        "image": "https://example.com/images/javascript.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "None",
+        "level": "Beginner",
+        "syllabus": "Basics of JavaScript, Variables, Data Types, Functions, DOM Manipulation",
+        "rating": 4.5,
+        "reviews": [
+          {
+            "userId": "1",
+            "comment": "Great course for beginners!",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Advanced CSS Techniques",
+        "description": "Deep dive into advanced CSS techniques and responsive design.",
+        "price": 120,
+        "discount": 15,
+        "instructor": "John Smith",
+        "category": "Web Design",
+        "duration": "5 weeks",
+        "image": "https://example.com/images/css-techniques.jpg",
+        "free": true,
+        "paid": false,
+        "prerequisites": "Basic understanding of HTML and CSS",
+        "level": "Intermediate",
+        "syllabus": "Flexbox, Grid Layout, Responsive Design, Advanced Selectors, Animations",
+        "rating": 4.6,
+        "reviews": [
+          {
+            "userId": "2",
+            "comment": "Very useful for improving CSS skills.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the fundamentals of Python programming and its applications.",
+        "price": 140,
+        "discount": 10,
+        "instructor": "Alice Johnson",
+        "category": "Programming",
+        "duration": "6 weeks",
+        "image": "https://example.com/images/python.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "None",
+        "level": "Beginner",
+        "syllabus": "Python Basics, Control Flow, Data Structures, Functions, File Handling",
+        "rating": 4.7,
+        "reviews": [
+          {
+            "userId": "1",
+            "comment": "Excellent for learning Python from scratch.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Introduction to Machine Learning",
+        "description": "An overview of machine learning concepts and algorithms.",
+        "price": 160,
+        "discount": 25,
+        "instructor": "David Brown",
+        "category": "Machine Learning",
+        "duration": "7 weeks",
+        "image": "https://example.com/images/machine-learning.jpg",
+        "free": true,
+        "paid": false,
+        "prerequisites": "Basic statistics and programming knowledge",
+        "level": "Intermediate",
+        "syllabus": "Supervised Learning, Unsupervised Learning, Neural Networks, Model Evaluation, Real-World Applications",
+        "rating": 4.8,
+        "reviews": [
+          {
+            "userId": "2",
+            "comment": "Great introduction to machine learning concepts.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Introduction to Digital Marketing",
+        "description": "Learn the basics of digital marketing strategies and tools.",
+        "price": 130,
+        "discount": 20,
+        "instructor": "Emily Davis",
+        "category": "Marketing",
+        "duration": "5 weeks",
+        "image": "https://example.com/images/digital-marketing.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "None",
+        "level": "Beginner",
+        "syllabus": "SEO, Content Marketing, Social Media Strategies, PPC Advertising, Analytics",
+        "rating": 4.4,
+        "reviews": [
+          {
+            "userId": "1",
+            "comment": "Useful for understanding digital marketing basics.",
+            "rating": 4
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Introduction to Graphic Design",
+        "description": "Learn the principles of graphic design and using design tools.",
+        "price": 150,
+        "discount": 15,
+        "instructor": "Michael Lee",
+        "category": "Design",
+        "duration": "6 weeks",
+        "image": "https://example.com/images/graphic-design.jpg",
+        "free": true,
+        "paid": false,
+        "prerequisites": "None",
+        "level": "Beginner",
+        "syllabus": "Design Principles, Typography, Color Theory, Adobe Photoshop, Adobe Illustrator",
+        "rating": 4.6,
+        "reviews": [
+          {
+            "userId": "2",
+            "comment": "Great course for beginners in graphic design.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Introduction to Data Science",
+        "description": "Learn the essentials of data science and analysis techniques.",
+        "price": 180,
+        "discount": 30,
+        "instructor": "Sarah Adams",
+        "category": "Data Science",
+        "duration": "7 weeks",
+        "image": "https://example.com/images/data-science.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "Basic statistics and programming knowledge",
+        "level": "Intermediate",
+        "syllabus": "Data Wrangling, Statistical Analysis, Machine Learning, Data Visualization, Project Work",
+        "rating": 4.7,
+        "reviews": [
+          {
+            "userId": "1",
+            "comment": "Comprehensive introduction to data science.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "title": "Introduction to Cybersecurity",
+        "description": "Learn about the fundamentals of cybersecurity and protecting information.",
+        "price": 170,
+        "discount": 20,
+        "instructor": "Laura Martinez",
+        "category": "Cybersecurity",
+        "duration": "6 weeks",
+        "image": "https://example.com/images/cybersecurity.jpg",
+        "free": true,
+        "paid": false,
+        "prerequisites": "Basic understanding of IT",
+        "level": "Intermediate",
+        "syllabus": "Network Security, Threat Analysis, Cryptography, Security Protocols, Ethical Hacking",
+        "rating": 4.6,
+        "reviews": [
+          {
+            "userId": "2",
+            "comment": "Essential for understanding cybersecurity.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "title": "Introduction to Blockchain Technology",
+        "description": "Understand the basics of blockchain and its applications.",
+        "price": 190,
+        "discount": 25,
+        "instructor": "Robert White",
+        "category": "Blockchain",
+        "duration": "6 weeks",
+        "image": "https://example.com/images/blockchain.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "None",
+        "level": "Beginner",
+        "syllabus": "Blockchain Basics, Cryptocurrencies, Smart Contracts, Blockchain Security, Real-World Applications",
+        "rating": 4.5,
+        "reviews": [
+          {
+            "userId": "1",
+            "comment": "Great course for understanding blockchain concepts.",
+            "rating": 4
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "title": "Introduction to Cloud Computing",
+        "description": "Learn about cloud computing services, models, and technologies.",
+        "price": 160,
+        "discount": 25,
+        "instructor": "Laura Wilson",
+        "category": "Cloud Computing",
+        "duration": "5 weeks",
+        "image": "https://example.com/images/cloud-computing.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "Basic understanding of IT concepts",
+        "level": "Beginner",
+        "syllabus": "Cloud Computing Basics, IaaS, PaaS, SaaS, Cloud Security, Case Studies",
+        "rating": 4.4,
+        "reviews": [
+          {
+            "userId": "2",
+            "comment": "Good overview of cloud computing technologies.",
+            "rating": 4
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "title": "Introduction to Game Development",
+        "description": "Learn the basics of game development using Unity.",
+        "price": 180,
+        "discount": 30,
+        "instructor": "Ryan Scott",
+        "category": "Game Development",
+        "duration": "6 weeks",
+        "image": "https://example.com/images/game-development.jpg",
+        "free": true,
+        "paid": false,
+        "prerequisites": "Basic programming knowledge",
+        "level": "Intermediate",
+        "syllabus": "Unity Basics, Game Mechanics, Asset Management, Scripting, Game Publishing",
+        "rating": 4.7,
+        "reviews": [
+          {
+            "userId": "1",
+            "comment": "Fantastic introduction to game development with Unity.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "title": "Introduction to Artificial Intelligence",
+        "description": "Learn the fundamentals of artificial intelligence and its applications.",
+        "price": 190,
+        "discount": 20,
+        "instructor": "Sophie Brown",
+        "category": "AI",
+        "duration": "7 weeks",
+        "image": "https://example.com/images/ai.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "Basic knowledge of programming and statistics",
+        "level": "Intermediate",
+        "syllabus": "AI Basics, Machine Learning, Neural Networks, AI Applications, Ethical Considerations",
+        "rating": 4.8,
+        "reviews": [
+          {
+            "userId": "2",
+            "comment": "In-depth introduction to AI concepts.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "title": "Introduction to Web Development",
+        "description": "Learn the basics of web development with HTML, CSS, and JavaScript.",
+        "price": 120,
+        "discount": 15,
+        "instructor": "Mia Parker",
+        "category": "Web Development",
+        "duration": "4 weeks",
+        "image": "https://example.com/images/web-development.jpg",
+        "free": true,
+        "paid": false,
+        "prerequisites": "None",
+        "level": "Beginner",
+        "syllabus": "HTML Basics, CSS Styling, JavaScript Basics, Responsive Design, Web Hosting",
+        "rating": 4.5,
+        "reviews": [
+          {
+            "userId": "1",
+            "comment": "Perfect for beginners in web development.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "title": "Introduction to Mobile App Development",
+        "description": "Learn the basics of mobile app development for iOS and Android.",
+        "price": 140,
+        "discount": 10,
+        "instructor": "Jake Turner",
+        "category": "Mobile Development",
+        "duration": "5 weeks",
+        "image": "https://example.com/images/mobile-app-development.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "Basic programming knowledge",
+        "level": "Beginner",
+        "syllabus": "Mobile App Basics, iOS Development, Android Development, UI/UX Design, App Publishing",
+        "rating": 4.6,
+        "reviews": [
+          {
+            "userId": "2",
+            "comment": "Great course for getting started with mobile app development.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "title": "Introduction to UX/UI Design",
+        "description": "Learn the fundamentals of UX/UI design principles and techniques.",
+        "price": 130,
+        "discount": 20,
+        "instructor": "Olivia Green",
+        "category": "Design",
+        "duration": "6 weeks",
+        "image": "https://example.com/images/ux-ui-design.jpg",
+        "free": true,
+        "paid": false,
+        "prerequisites": "None",
+        "level": "Beginner",
+        "syllabus": "UX Design Principles, UI Design Techniques, Wireframing, Prototyping, User Testing",
+        "rating": 4.7,
+        "reviews": [
+          {
+            "userId": "1",
+            "comment": "Informative and practical course on UX/UI design.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "title": "Introduction to Financial Analysis",
+        "description": "Learn the basics of financial analysis and modeling.",
+        "price": 150,
+        "discount": 25,
+        "instructor": "Emily Wilson",
+        "category": "Finance",
+        "duration": "6 weeks",
+        "image": "https://example.com/images/financial-analysis.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "Basic understanding of finance and accounting",
+        "level": "Intermediate",
+        "syllabus": "Financial Statements, Ratio Analysis, Forecasting, Financial Modeling, Investment Analysis",
+        "rating": 4.6,
+        "reviews": [
+          {
+            "userId": "2",
+            "comment": "Comprehensive course on financial analysis.",
+            "rating": 4
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "title": "Introduction to Project Management",
+        "description": "Learn the basics of project management and planning.",
+        "price": 140,
+        "discount": 10,
+        "instructor": "David Johnson",
+        "category": "Project Management",
+        "duration": "5 weeks",
+        "image": "https://example.com/images/project-management.jpg",
+        "free": true,
+        "paid": false,
+        "prerequisites": "None",
+        "level": "Beginner",
+        "syllabus": "Project Planning, Scheduling, Risk Management, Budgeting, Project Execution",
+        "rating": 4.5,
+        "reviews": [
+          {
+            "userId": "1",
+            "comment": "Good introduction to project management techniques.",
+            "rating": 4
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "title": "Introduction to Data Visualization",
+        "description": "Learn the principles and techniques of data visualization.",
+        "price": 160,
+        "discount": 30,
+        "instructor": "Jessica Martinez",
+        "category": "Data Science",
+        "duration": "6 weeks",
+        "image": "https://example.com/images/data-visualization.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "Basic understanding of data analysis",
+        "level": "Intermediate",
+        "syllabus": "Data Visualization Basics, Tools and Techniques, Data Storytelling, Creating Dashboards, Best Practices",
+        "rating": 4.7,
+        "reviews": [
+          {
+            "userId": "2",
+            "comment": "Excellent course on visualizing data effectively.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "19",
+        "title": "Introduction to Social Media Marketing",
+        "description": "Learn the fundamentals of social media marketing strategies and tools.",
+        "price": 120,
+        "discount": 15,
+        "instructor": "Michael Thompson",
+        "category": "Marketing",
+        "duration": "5 weeks",
+        "image": "https://example.com/images/social-media-marketing.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "None",
+        "level": "Beginner",
+        "syllabus": "Social Media Platforms, Content Creation, Audience Engagement, Analytics, Paid Advertising",
+        "rating": 4.4,
+        "reviews": [
+          {
+            "userId": "1",
+            "comment": "Good overview of social media marketing techniques.",
+            "rating": 4
+          }
+        ]
+      },
+      {
+        "id": "20",
+        "title": "Introduction to Public Speaking",
+        "description": "Learn the fundamentals of effective public speaking and presentation skills.",
+        "price": 150,
+        "discount": 20,
+        "instructor": "Linda Brown",
+        "category": "Communication",
+        "duration": "4 weeks",
+        "image": "https://example.com/images/public-speaking.jpg",
+        "free": true,
+        "paid": false,
+        "prerequisites": "None",
+        "level": "Beginner",
+        "syllabus": "Speech Preparation, Delivery Techniques, Audience Engagement, Overcoming Nervousness, Presentation Skills",
+        "rating": 4.6,
+        "reviews": [
+          {
+            "userId": "2",
+            "comment": "Great course for improving public speaking skills.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "21",
+        "title": "Introduction to Video Editing",
+        "description": "Learn the basics of video editing using Adobe Premiere Pro.",
+        "price": 160,
+        "discount": 25,
+        "instructor": "Daniel Lee",
+        "category": "Video Editing",
+        "duration": "6 weeks",
+        "image": "https://example.com/images/video-editing.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "None",
+        "level": "Beginner",
+        "syllabus": "Video Editing Basics, Cutting and Trimming, Audio Editing, Effects and Transitions, Exporting and Sharing",
+        "rating": 4.5,
+        "reviews": [
+          {
+            "userId": "2",
+            "comment": "Great for beginners wanting to learn video editing.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "22",
+        "title": "Introduction to Robotics",
+        "description": "Learn the fundamentals of robotics and automation.",
+        "price": 180,
+        "discount": 30,
+        "instructor": "Helen White",
+        "category": "Robotics",
+        "duration": "7 weeks",
+        "image": "https://example.com/images/robotics.jpg",
+        "free": true,
+        "paid": false,
+        "prerequisites": "Basic understanding of engineering concepts",
+        "level": "Intermediate",
+        "syllabus": "Robotics Basics, Sensors and Actuators, Robotic Programming, Autonomous Systems, Robotics Applications",
+        "rating": 4.7,
+        "reviews": [
+          {
+            "userId": "1",
+            "comment": "Comprehensive introduction to robotics.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "23",
+        "title": "Introduction to SQL Databases",
+        "description": "Learn the basics of SQL and database management.",
+        "price": 140,
+        "discount": 20,
+        "instructor": "Thomas Harris",
+        "category": "Database",
+        "duration": "5 weeks",
+        "image": "https://example.com/images/sql-databases.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "Basic understanding of databases",
+        "level": "Beginner",
+        "syllabus": "SQL Basics, Data Querying, Data Manipulation, Database Design, SQL Functions",
+        "rating": 4.6,
+        "reviews": [
+          {
+            "userId": "2",
+            "comment": "Solid introduction to SQL databases.",
+            "rating": 4
+          }
+        ]
+      },
+      {
+        "id": "24",
+        "title": "Introduction to Natural Language Processing",
+        "description": "Learn the basics of natural language processing and its applications.",
+        "price": 150,
+        "discount": 25,
+        "instructor": "Grace Wilson",
+        "category": "AI",
+        "duration": "6 weeks",
+        "image": "https://example.com/images/nlp.jpg",
+        "free": true,
+        "paid": false,
+        "prerequisites": "Basic understanding of AI and programming",
+        "level": "Intermediate",
+        "syllabus": "NLP Basics, Text Processing, Sentiment Analysis, Machine Translation, NLP Applications",
+        "rating": 4.7,
+        "reviews": [
+          {
+            "userId": "1",
+            "comment": "Great course for learning NLP techniques.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "25",
+        "title": "Introduction to Ethical Hacking",
+        "description": "Learn the basics of ethical hacking and cybersecurity practices.",
+        "price": 180,
+        "discount": 30,
+        "instructor": "Jack Green",
+        "category": "Cybersecurity",
+        "duration": "7 weeks",
+        "image": "https://example.com/images/ethical-hacking.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "Basic understanding of IT and networking",
+        "level": "Intermediate",
+        "syllabus": "Ethical Hacking Basics, Penetration Testing, Vulnerability Assessment, Cybersecurity Tools, Legal and Ethical Issues",
+        "rating": 4.8,
+        "reviews": [
+          {
+            "userId": "2",
+            "comment": "In-depth course on ethical hacking techniques.",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "26",
+        "title": "Introduction to DevOps",
+        "description": "Learn the fundamentals of DevOps practices and tools.",
+        "price": 160,
+        "discount": 25,
+        "instructor": "Olivia Scott",
+        "category": "DevOps",
+        "duration": "6 weeks",
+        "image": "https://example.com/images/devops.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "Basic understanding of software development and IT operations",
+        "level": "Intermediate",
+        "syllabus": "DevOps Basics, Continuous Integration, Continuous Deployment, Infrastructure as Code, Monitoring and Logging",
+        "rating": 4.6,
+        "reviews": [
+          {
+            "userId": "1",
+            "comment": "Great introduction to DevOps practices.",
+            "rating": 4
+          }
+        ]
+      },
+      {
+        "id": "27",
+        "title": "Introduction to Agile Methodology",
+        "description": "Learn the fundamentals of Agile project management and methodologies.",
+        "price": 130,
+        "discount": 20,
+        "instructor": "Paul Adams",
+        "category": "Project Management",
+        "duration": "5 weeks",
+        "image": "https://example.com/images/agile-methodology.jpg",
+        "free": true,
+        "paid": false,
+        "prerequisites": "None",
+        "level": "Beginner",
+        "syllabus": "Agile Principles, Scrum Framework, Kanban, Agile Planning, Continuous Improvement",
+        "rating": 4.5,
+        "reviews": [
+          {
+            "userId": "2",
+            "comment": "Useful course for understanding Agile methodologies.",
+            "rating": 4
+          }
+        ]
+      },
+      {
+        "id": "28",
+        "title": "Introduction to Quantum Computing",
+        "description": "Learn the basics of quantum computing and its potential applications.",
+        "price": 200,
+        "discount": 30,
+        "instructor": "Emily Davis",
+        "category": "Quantum Computing",
+        "duration": "8 weeks",
+        "image": "https://example.com/images/quantum-computing.jpg",
+        "free": false,
+        "paid": false,
+        "prerequisites": "Basic understanding of quantum physics and computing concepts",
+        "level": "Advanced",
+        "syllabus": "Quantum Computing Basics, Quantum Algorithms, Quantum Cryptography, Quantum Programming, Future of Quantum Computing",
+        "rating": 4.8,
+        "reviews": [
+          {
+            "userId": "1",
+            "comment": "Advanced and insightful course on quantum computing.",
+            "rating": 5
+          }
+        ]
+      }
+    ],
+    "carts": [
+      {
+        "userId": 1,
+        "items": [
+          {
+            "courseId": 1,
+            "quantity": 1,
+            "price": 100
+          },
+          {
+            "courseId": 3,
+            "quantity": 1,
+            "price": 300
+          }
+        ],
+        "totalPrice": 400,
+        "id": "9f45"
+      },
+      {
+        "userId": 3,
+        "items": [
+          {
+            "courseId": 2,
+            "quantity": 1,
+            "price": 200
+          }
+        ],
+        "totalPrice": 200,
+        "id": "2f83"
+      },
+      {
+        "userId": 4,
+        "items": [
+          {
+            "courseId": 5,
+            "quantity": 1,
+            "price": 350
+          }
+        ],
+        "totalPrice": 350,
+        "id": "1d9b"
+      },
+      {
+        "userId": 5,
+        "items": [
+          {
+            "courseId": 6,
+            "quantity": 1,
+            "price": 180
+          }
+        ],
+        "totalPrice": 180,
+        "id": "6a48"
+      }
+    ],
+    "wishlists": [
+      {
+        "userId": 1,
+        "items": [
+          {
+            "courseId": 2,
+            "title": "Advanced React",
+            "description": "Take your React skills to the next level with advanced concepts and best practices.",
+            "price": 200,
+            "image": "https://example.com/images/react.jpg"
+          },
+          {
+            "courseId": 5,
+            "title": "Machine Learning with TensorFlow",
+            "description": "Understand machine learning concepts and implement them using TensorFlow.",
+            "price": 350,
+            "image": "https://example.com/images/tensorflow.jpg"
+          }
+        ],
+        "id": "20bd"
+      },
+      {
+        "userId": 4,
+        "items": [
+          {
+            "courseId": 1,
+            "title": "Introduction to JavaScript",
+            "description": "Learn the basics of JavaScript, the most popular programming language for web development.",
+            "price": 100,
+            "image": "https://example.com/images/javascript.jpg"
+          },
+          {
+            "courseId": 4,
+            "title": "UX/UI Design Principles",
+            "description": "Learn the fundamentals of user experience and user interface design.",
+            "price": 150,
+            "image": "https://example.com/images/ux-ui.jpg"
+          }
+        ],
+        "id": "9c4e"
+      },
+      {
+        "userId": 6,
+        "items": [
+          {
+            "courseId": 3,
+            "title": "Data Science with Python",
+            "description": "Master data science concepts and tools, including Python, pandas, and machine learning.",
+            "price": 300,
+            "image": "https://example.com/images/python.jpg"
+          },
+          {
+            "courseId": 6,
+            "title": "Cybersecurity Basics",
+            "description": "Learn the basics of cybersecurity to protect systems and data.",
+            "price": 180,
+            "image": "https://example.com/images/cybersecurity.jpg"
+          }
+        ],
+        "id": "81d7"
+      }
+    ],
+    "enrollments": [
+      {
+        "userId": 1,
+        "courseId": 1,
+        "status": "completed",
+        "progress": 100,
+        "rating": 5,
+        "id": "be87"
+      },
+      {
+        "userId": 1,
+        "courseId": 3,
+        "status": "in-progress",
+        "progress": 50,
+        "rating": null,
+        "id": "c78f"
+      },
+      {
+        "userId": 3,
+        "courseId": 2,
+        "status": "not started",
+        "progress": 0,
+        "rating": null,
+        "id": "49a6"
+      },
+      {
+        "userId": 4,
+        "courseId": 5,
+        "status": "in-progress",
+        "progress": 20,
+        "rating": null,
+        "id": "d154"
+      }
+    ],
+    "dashboard": {
+      "totalUsers": 6,
+      "totalCourses": 8,
+      "totalEnrollments": 4,
+      "totalRevenue": 1130,
+      "popularCourses": [
+        {
+          "courseId": 1,
+          "title": "Introduction to JavaScript",
+          "enrollments": 2
+        },
+        {
+          "courseId": 3,
+          "title": "Data Science with Python",
+          "enrollments": 1
+        },
+        {
+          "courseId": 2,
+          "title": "Advanced React",
+          "enrollments": 1
+        },
+        {
+          "courseId": 5,
+          "title": "Machine Learning with TensorFlow",
+          "enrollments": 1
+        }
+      ],
+      "recentUsers": [
+        {
+          "id": "6",
+          "name": "Diana Prince",
+          "email": "diana@example.com",
+          "role": "user",
+          "image": "https://example.com/images/users/diana.jpg"
+        },
+        {
+          "id": "5",
+          "name": "Charlie Brown",
+          "email": "charlie@example.com",
+          "role": "user",
+          "image": "https://example.com/images/users/charlie.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Bob Johnson",
+          "email": "bob@example.com",
+          "role": "user",
+          "image": "https://example.com/images/users/bob.jpg"
+        },
+        {
+          "id": "3",
+          "name": "Monmen",
+          "email": "momen@example.com",
+          "role": "user",
+          "image": "https://example.com/images/users/momen2.jpg"
+        },
+        {
+          "id": "2",
+          "name": "Monmen",
+          "email": "momen@example.com",
+          "role": "user",
+          "image": "https://example.com/images/users/momen.jpg"
+        }
+      ]
+    }
+  }
