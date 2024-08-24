@@ -20,11 +20,12 @@ const corsOptions = {
     origin: '*', // Allow all origins. Change this to your specific domain if needed.
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'], // Allowed methods
     allowedHeaders: ['Content-Type', 'Authorization'], // Allowed headers
-    exposedHeaders: ['Content-Length', 'X-Total-Count'], // Expose headers
+    exposedHeaders: ['Content-Length', 'X-Total-Count', 'X-Custom-Header'], // Expose custom headers if needed
 };
 
-server.use(cors(corsOptions)); // Apply the CORS middleware with options
-server.options('*', cors(corsOptions)); // Preflight request handler
+server.use(cors(corsOptions)); // Apply CORS middleware with options
+server.options('*', cors(corsOptions)); // Handle preflight requests
+
 
 server.use(middlewares);
 
