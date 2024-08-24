@@ -297,7 +297,9 @@
       "instructor": "Jane Doe",
       "category": "Programming",
       "duration": "4 weeks",
-      "image": "https://th.bing.com/th/id/R.8e556cfdb5b2a874ac25ded1c6fe447d?rik=QIdNIRlnVU3Gcw&pid=ImgRaw&r=0",
+      "image": {
+        "0": {}
+      },
       "free": false,
       "paid": false,
       "prerequisites": "None",
