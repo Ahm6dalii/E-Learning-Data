@@ -16,15 +16,15 @@ const router = jsonServer.router('db.json');
 
 const middlewares = jsonServer.defaults();
 
-// Customize CORS options
 const corsOptions = {
     origin: '*', // Allow all origins. Change this to your specific domain if needed.
-    methods: ['GET', 'POST', 'PUT', 'DELETE'], // Allowed methods
+    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'], // Allowed methods
     allowedHeaders: ['Content-Type', 'Authorization'], // Allowed headers
     exposedHeaders: ['Content-Length', 'X-Total-Count'], // Expose headers
 };
 
 server.use(cors(corsOptions)); // Apply the CORS middleware with options
+server.options('*', cors(corsOptions)); // Preflight request handler
 
 server.use(middlewares);
 
